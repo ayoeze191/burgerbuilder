@@ -1,0 +1,16 @@
+.Logo {
+    background-color: white;
+    padding: 8px;
+    height: 80%;
+    box-sizing: border-box;
+    border-radius: 1px;
+}
+
+@media (max-width: 500px) {
+    .Logo {
+        height: 50px;
+    }
+}
+
+
+
