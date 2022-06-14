@@ -14,9 +14,10 @@ class Checkout extends Component{
         this.props.history.replace("/checkout/contact-data")
         // this.props.history.push('ezekiel')
         // changing master branch to cause merge conflict
-        // changing Feature branch
+        // Remote Changes Feature
+
     }
-  
+   
 
     render() {
         return (
