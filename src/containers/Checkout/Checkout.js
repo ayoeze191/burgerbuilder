@@ -16,6 +16,7 @@ class Checkout extends Component{
         // changing master branch to cause merge conflict
         // Remote Changes Feature
         // waiting to sees com
+        // You are dead
     }
    
 
