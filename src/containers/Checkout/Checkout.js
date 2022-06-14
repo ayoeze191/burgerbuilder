@@ -15,7 +15,8 @@ class Checkout extends Component{
         // this.props.history.push('ezekiel')
         // changing master branch to cause merge conflict
         // Remote Changes Feature
-
+        // waiting to sees com
+        // You are dead
     }
    
 
